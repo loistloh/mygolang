@@ -1,7 +1,8 @@
 # mygolang
 
 #### 介绍
-go语言学习
+go语言学习笔记
+地址：https://www.runoob.com/go/go-tutorial.html
 
 #### 软件架构
 软件架构说明

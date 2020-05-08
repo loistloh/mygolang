@@ -1,7 +1,8 @@
 # mygolang
 
 #### Description
-go语言测试
+go语言学习笔记
+地址：https://www.runoob.com/go/go-tutorial.html
 
 #### Software Architecture
 Software architecture description
