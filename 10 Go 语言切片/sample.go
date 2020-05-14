@@ -88,7 +88,8 @@ func sample4() {
 	printSlice4(numbers)
 
 	/* 创建切片 numbers1 是之前切片的两倍容量*/
-	numbers1 := make([]int, len(numbers), (cap(numbers))*2)
+	numbers1 := make([]int, len(numbers), (cap(numbers))*20)
+	// numbers1 := make([]int, len(numbers)*2)
 
 	/* 拷贝 numbers 的内容到 numbers1 */
 	copy(numbers1, numbers)
